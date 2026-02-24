@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richowusu
 - 👀 I’m interested in Digital Forensic and Incident Response
-- 🌱 I’m currently learning python scripting
+- 🌱 I’m currently learning python/bash scripting
 - 💞️ I’m looking to collaborate on anything hacking related
 - 📫 How to reach me ...
 
